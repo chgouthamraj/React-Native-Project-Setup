@@ -1,0 +1,16 @@
+export default {
+  TAB_ROUTES: 'tabRoutes',
+  ON_BOARDING: 'onBoarding',
+  INITIAL_SCREEN: 'initialScreen',
+  LOGIN: 'login',
+  SIGNUP: 'signup',
+  OTP_VERIFICATION: 'otpVerification',
+  FORGOT_PASSWORD: 'forgotPassword',
+  HOME: 'home',
+  SEARCH: 'Search',
+  POST: 'Post',
+  NOTIFICATION: 'Notification',
+  PROFILE: 'Profile',
+  CREATE_POST: 'CreatePost',
+  TAB_ROUTES: 'TabRoutes',
+};
